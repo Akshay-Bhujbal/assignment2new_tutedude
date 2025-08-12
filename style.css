@@ -239,4 +239,10 @@ body{
         height: 17rem;
         width: auto;
     }
+
+     .navbar {
+        flex-direction: column;
+        gap: 0.3rem; /* reduce gap */
+        padding: 0.4rem 0.8rem; /* smaller padding */
+    }
 } 
